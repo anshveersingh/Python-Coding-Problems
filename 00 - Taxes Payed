@@ -34,6 +34,6 @@ taxes_payed = tax_rate * 100
 print("The taxes payed are: {}".format(taxes_payed))
 
 
-Done! You have practiced about some arithmetic, variables, print formatting and how to take imput. And if you practice more and more, so.. you can be a great programmer. Do not program for money, program to change the world....
+Done! You have practiced about some arithmetic, variables, print formatting and how to take input. And if you practice more and more, so.. you can be a great programmer. Do not program for money, program to change the world....
 
 - anshveersingh
