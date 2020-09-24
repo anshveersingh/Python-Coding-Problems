@@ -1,0 +1,39 @@
+## 00 - Taxes Payed
+
+### Hint
+You are living in a kingdom which was ruled by a cruel king. He imposed heavy taxes on all. You are the minister and you only know how to code. You want to help people. Every one has the same income; which is 100. Make a program that takes the first input as the tax rate, and display the taxes payed on the screen.
+    
+### Help
+input() returns string, not an int. So, use the eval() function to evaluate to the correct data type. 
+    
+[By anshveersingh]
+    
+    
+### Solutions
+
+The solutions are - 
+
+1. First, we need to input that, so:
+
+tax_rate = eval(input("Enter the tax_rate: "))
+
+2. Calculate it, so:
+
+taxes_payed = tax_rate * 100
+    
+3. Display it, so:
+
+print("The taxes payed are: {}".format(taxes_payed))
+    
+[Note: You can use any format to do the above. ]
+
+And so, the total code is:
+    
+tax_rate = eval(input("Enter the tax_rate: "))
+taxes_payed = tax_rate * 100
+print("The taxes payed are: {}".format(taxes_payed))
+
+
+Done! You have practiced about some arithmetic, variables, print formatting and how to take imput. And if you practice more and more, so.. you can be a great programmer. Do not program for money, program to change the world....
+
+- anshveersingh
