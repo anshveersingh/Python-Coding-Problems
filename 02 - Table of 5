@@ -1,0 +1,40 @@
+## 02 - Table of 5
+
+### Hint
+
+You have to print the table of 5 like:
+    
+5 X 1 = 5
+5 X 2 = 10
+......
+
+You can use whatever or just use 2 variables.
+
+### Help
+
+We will use the for loop here. It is used to iterate through a list, string, set, tuple, dictionary or a range of numbers. If you do not know about it, go to: 
+    
+https://www.studytonight.com/python/
+    
+Learn here, it has a lot of stuff and to learn.
+
+### Solution
+
+1. Create variables
+
+m = 5
+
+2. Make a variable n and make it run through the range of 1 to 10, then make it print the result
+
+for n in range(1,11):
+    print(f"{m} X {n} = {m * n}")
+
+All together, it is: 
+    
+m = 5
+for n in range(1,11):
+    print(f"{m} X {n} = {m * n}")
+
+Wow, this was a new concept. So, this is all. And learn more, spread your branches.
+
+- anshveersingh
