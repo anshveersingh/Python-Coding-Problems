@@ -1,0 +1,29 @@
+## 01 - Calculate the average
+
+### Hint
+
+Given two numbers, calculate their average (input them). But.... you can not use any third variable. You have to only display the result, not store it. 
+
+### Help
+
+If you want more advanced problems for math so go to: 
+    
+https://projecteuler.net//archives
+
+### Solutions
+
+1. Input them.
+
+a = eval(input("Enter the first number: "))
+b = eval(input("Enter the second number: "))
+
+2. Calculate it and print it.
+
+Here, we will be using the f - string literal.
+
+print(f"Their average is {a + b / 2}.")
+
+
+So, that was it. You may have a different solution, but this is the basic. The first step is the hardest, but the nexts are easier. You have learned how to use f - string literals. Congrats! And keep learning..
+
+- anshveersingh
